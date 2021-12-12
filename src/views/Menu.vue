@@ -66,6 +66,7 @@ export default {
   display: flex;
   flex-wrap: wrap;
   padding: 12px;
+  outline: none;
   &-card {
     max-width: 300px;
     width: 100%;

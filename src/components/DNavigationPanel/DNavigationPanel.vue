@@ -163,13 +163,17 @@ export default {
       &__control {
         padding-top: 0px;
         &_before {
-          margin-right: 4px;
+          padding-right: 4px;
         }
         &_after {
-          margin-left: 4px;
+          padding-top: 1px;
+          padding-left: 4px;
         }
       }
     }
+  }
+  .tabs-item {
+    outline: none;
   }
 }
 </style>
