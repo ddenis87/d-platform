@@ -14,6 +14,16 @@ export default {
           path: 'views/examples/ExDBtn',
           name: 'DBtn',
         },
+        {
+          text: 'DAuthorization',
+          path: 'views/examples/ExDAuthorization',
+          name: 'DAuthorization',
+        },
+        {
+          text: 'DToolbar',
+          path: 'views/examples/ExDToolbar',
+          name: 'DToolbar',
+        },
       ],
       selectedTab: {},
     };
