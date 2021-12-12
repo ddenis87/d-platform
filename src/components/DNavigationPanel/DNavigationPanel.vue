@@ -28,7 +28,7 @@ export default {
           padding: '5px',
         };
       },
-    }
+    },
   },
   data() {
     return {
