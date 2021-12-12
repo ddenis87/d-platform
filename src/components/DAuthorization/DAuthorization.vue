@@ -91,6 +91,7 @@ export default {
 <style lang="scss" scoped>
 .d-authorization {
   max-width: 400px;
+  width: 400px;
   .actions {
     padding: 0 16px;
     padding-bottom: 10px;
