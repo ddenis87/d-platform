@@ -24,6 +24,11 @@ export default {
           path: 'views/examples/ExDToolbar',
           name: 'DToolbar',
         },
+        {
+          text: 'DFields',
+          path: 'views/examples/ExDFields',
+          name: 'DFields',
+        },
       ],
       selectedTab: {},
     };
